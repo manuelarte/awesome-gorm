@@ -4,11 +4,16 @@ A curated list of available Gorm plugins.
 
 ## Contents
 
+- [Optimisticklock](#optimisticlock)
 - [Prometheus](#prometheis)
 - [Pagorminator](#pagorminator)
 - ...
 
 **[⬆ back to top](#contents)**
+
+## [OptimisticLock](https://github.com/go-gorm/optimisticlock)
+
+Optimistic lock plugin for Gorm.
 
 ## [Prometheus](https://github.com/go-gorm/prometheus)
 
