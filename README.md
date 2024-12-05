@@ -7,7 +7,6 @@ A curated list of available Gorm plugins.
 - [Optimisticklock](#optimisticlock)
 - [Prometheus](#prometheis)
 - [Pagorminator](#pagorminator)
-- ...
 
 **[⬆ back to top](#contents)**
 
